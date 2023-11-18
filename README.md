@@ -1,1 +1,1 @@
-# fcc-data-analysis-projects
+# freeCodeCamp Data Analysis Projects
