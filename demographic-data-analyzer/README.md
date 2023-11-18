@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-The purpose of this challenge is analyze demographic data using Pandas. Answering the following questions:
+The purpose of this challenge is to analyze demographic data using Pandas. Answering the following questions:
 
 - How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 - What is the average age of men?
